@@ -18,6 +18,7 @@ sorted by the `crawled_time` field.
     code.
 - the page should be in React for Full Stack Developer
 - The page should be in Kotlin for Android Developer
+- Make sure your code and commits are available on your github (In the interview we will review your code) 
 
 
 ### Exrta Score
